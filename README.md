@@ -16,6 +16,4 @@ Analisar as características socioeconomicas que decrevem os eleitores de acordo
 
 
 ## Desenvolvedores:
-André Tsuji/
-Gabriel Veronezzi/
-Leonardo Carvalho
+Gabriel Veronezzi
